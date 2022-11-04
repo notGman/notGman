@@ -4,14 +4,14 @@
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr>
+<br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=notGman&show_icons=true&theme=github_dark">
 </p>
-<hr>
+<br>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
 </p>
-<hr>
+<br>
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=notGman">&nbsp;&nbsp;&nbsp;&nbsp;
