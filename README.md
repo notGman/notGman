@@ -5,12 +5,6 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=notGman">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/notGman?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=notGman.visitor-badge"> -->
-</p>
-<br>
 
 ## Github Stats &nbsp;📊
 <br>
@@ -63,4 +57,11 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+</p>
+<hr>
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=notGman">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/notGman?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=notGman.visitor-badge"> -->
 </p>
