@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   </a>
   
@@ -37,11 +37,11 @@
       alt="javascrpit"/>
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   </a>
   
-    <a href="https://www.jetbrains.com/" target="_blank">
+  <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
   
@@ -53,13 +53,14 @@
     <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
   </a>
   
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
+  
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
