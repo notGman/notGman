@@ -43,7 +43,7 @@
   </a>
   
   <a href="" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
+    <img alt="C++" src="[https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
   </a>
   
   <a href="" target="_blank">
