@@ -2,9 +2,6 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Gowthaman;Electronics+Engineering+Student;Cooking+Projects;%40notGman">
 </p>
-<p align='center'>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="650" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
 
 ## Github Stats📊&nbsp;
 <br>
